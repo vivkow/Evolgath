@@ -1,5 +1,5 @@
 # Scientific subfields in the domain of Evolutionary Game Theory
-> This project investigates infuential publications and their connections within the field of evolutionary game theory.
+> This project investigates infuential publications and their connections within the field of evolutionary game theory. We want to identify clusters within the field.
 
 ## Table of Contents
 * [General Info](#general-information)
