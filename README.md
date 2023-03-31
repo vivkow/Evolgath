@@ -1,4 +1,4 @@
-# Collaboration in the Field of Evolutionary Game Theory
+# Scientific subfields in the domain of Evolutionary Game Theory
 > This project investigates infuential publications and their connections within the field of evolutionary game theory.
 
 ## Table of Contents
