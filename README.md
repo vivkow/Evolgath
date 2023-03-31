@@ -10,7 +10,7 @@
 
 
 ## General Information
-This project investigates infuential scientific publications and their connections within the field of evolutionary game theory. Existing subfields shall be identified. A connection is defined as two publications being cited by a third publication.
+This project investigates infuential scientific publications and their connections within the field of evolutionary game theory. Existing subfields shall be identified. A connection is defined as two publications being cited by a third publication. Data is retrieved from the "Kompetenzzentrum Bibliometrie" by using the publication keyword "evolutionary game theory".
 
 ## Notebooks
 Pt 1 Overview of Scopus and WoS data sets evolgath:
